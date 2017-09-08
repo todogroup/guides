@@ -44,9 +44,7 @@ The program office can also be a critical liaison between developers and the ope
 
 ![Source: Ibrahim Haddad, http://www.ibrahimatlinux.com/charts.html](images/creating-an-open-source-program1.png)
 
-## Example
-
-## Open source at Google
+## Example: Open source program at Google
 
 At Google, where the use of open source has been central to its mission and success since the company began in 1998, the role of the open source program office is broad. The office was started in 2004 largely as a compliance effort to understand and organize its use of open source licenses and code, according to Will Norris, the manager of the office. Google was much smaller back then and was involved in a wide range of open source projects and code use, but there weren't many formal compliance processes in play at that time. As the company continued to grow, that lack of compliance and organization had to change, said Norris, who has worked in the office for four years, originally as a software engineer. He became its manager in September 2016.
 
