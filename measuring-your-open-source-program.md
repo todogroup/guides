@@ -36,7 +36,7 @@ Getting the word out about results -- the good, the bad, and the ugly -- increas
 
 It’s OK to have lofty goals for your open source program, but set reasonable expectations for how you will get there and on what kind of timeline. First, it’s helpful just to start measuring to establish a baseline for performance. Set up the right tools for collecting data and make sure the data sources are clean and in a format you (and your manager) can understand. Many organizations create a dashboard of metrics for their open source programs, to track all of the data in one place and provide project snapshots that can help assess progress at a glance. (See our guide on Tools for Managing Open Source Programs.) 
 
-![The Cloud Native Computing Foundation’s project dashboard](measuring-your-open-source-program1.png)
+![The Cloud Native Computing Foundation’s project dashboard](images/measuring-your-open-source-program1.png)
 
 Next, get all of the open source program managers and stakeholders together -- at Facebook, that’s about five people -- and decide as a group where you want to go over the next 3-6 months (small, achievable increments). At the end of that time period, look back at how you did and adjust goals and tactics for the next pass, based on the previous pass.
 
@@ -61,7 +61,7 @@ Kubernetes is one of the highest velocity open source projects on GitHub, attrac
 
 Below are some of the common goals behind an open source program office, and the top ways that program managers measure against these goals to track the overall progress of the program. Some of these goals can’t be measured, per se, but are about improving processes, efficiencies and quality. Others can be measured by conducting surveys or other methods of assessment such as regularly, and actively soliciting verbal or written feedback. (Talk to your team!)
 
-### Goal #1 Ensure the efficient and legally compliant use of open source code.
+### Goal 1: Ensure the efficient and legally compliant use of open source code.
 
 This is where organizations typically start when they get involved in open source. They realize engineering is consuming a lot of open source software either in their infrastructure, or in their products and services, or both. A program office helps centralize policies and decision-making around open source consumption, track its use, and ensure the organization doesn’t run afoul of its legal obligations under the various open source licenses. Programs can also keep track of how well they help developers resolve any legal issues they may encounter.
 
@@ -74,7 +74,7 @@ Some of the most common ways to measure against this first goal are aimed at ens
 * Which products and services are third-party code being used in?
 * How many compliance issues are you having and how quickly are they resolved? (You do you have a compliance program, right? See our legal resources from the [Open Compliance Program](https://compliance.linuxfoundation.org/) for more on this topic.)
 
-### Goal #2  Increase developer productivity.
+### Goal 2: Increase developer productivity.
 
 Once you’re tracking and managing your open source use, you’ll want to make it easier for developers to contribute to open source projects. If your engineers have to go through layers of red tape to submit a bug fix or new feature to a project that your business depends on, you’re wasting precious time and resources. Developers also save considerable time over the long run by contributing upstream, rather than maintaining a separate fork of the project which accrues technical debt over time. 
 
@@ -93,7 +93,7 @@ Metrics related to this goal are aimed at greasing the wheels for developers to 
 * Amount of time between software releases - is it increasing or decreasing?
 * What are the engineering costs associated with contributing upstream vs. maintaining forked code?
 
-### Goal #3 Create and grow open source projects.
+### Goal 3: Create and grow open source projects.
 
 This is the primary goal of many open source programs at large, engineering-focused organizations such as Facebook,Google, Microsoft, Twitter, and many others. They’re creating hundreds (or even thousands) of open source projects that aim to solve hard technology problems. The goal is to attract outside users and contributors who bring in new ideas and help advance the technology at a faster pace -- a concept University of California, Berkeley, professor Henry Chesbrough calls [open innovation](https://hbr.org/2003/07/a-better-way-to-innovate).
 
@@ -118,7 +118,7 @@ The many data points available to measure project health are key to tracking aga
 
 > "During one half we decided that we wanted to have more flagship projects that get launched and make it a little bit more of a rigorous process in terms of what we open source. But there were no numbers behind that. It just meant revisiting the process of how open source projects were launched." - Christine Abernathy, Facebook.
 
-### Goal #4 Recruit and retain developers.
+### Goal 4: Recruit and retain developers.
 
 Participating in and creating open source projects as an organization is a great way to attract developers -- and onboard them quickly, with fewer resources devoted to training. Developers who use or contribute to your projects will already be familiar with your processes, tools, and technologies when they join the organization. (See our guide on Recruiting Open Source Developers.)
 
@@ -128,7 +128,7 @@ But chances are that you as a program manager will not have a direct role in rec
 * How did that awareness influence their decision to join the company?
 * Does their experience with open source apply to the work that they are doing now? 
 
-> "We don't have goals around the survey but it's good to know that the numbers are trending upwards. That speaks to the overall effectiveness of how people view our open source projects." *- [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
+> "We don't have goals around the survey but it's good to know that the numbers are trending upwards. That speaks to the overall effectiveness of how people view our open source projects." - [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
 
 Other common metrics for developer recruitment include:
 
@@ -142,7 +142,7 @@ Other common metrics for developer recruitment include:
 * Developers are recognized and rewarded for contributions
 * Developers receive help and support in contributing
 
-### Goal # 5 Promote open source culture.
+### Goal 5: Promote open source culture.
 
 A lot of how open source programs contribute to engineering talent also comes down to cultivating the culture and practice of open source within your organization. That’s because organizations that embrace open source are known as good places for developers to work and innovate. Open source program managers are often ambassadors for an open source ethos within their organizations, as well as overseeing the policies and practices for collaboration. 
 
@@ -157,7 +157,7 @@ It’s important to track how open source culture advances within your organizat
 * Advocating on behalf of the organization - attending and speaking at conferences, writing articles or tutorials, etc.
 * Sponsoring foundations, groups, or hackathons
 
-### Goal #6  Align open source community interests with product interests.
+### Goal 6: Align open source community interests with product interests.
 
 Community advocacy is a fairly new, but increasingly popular, role in open source programs.  You will often act as a liaison between your projects’ developer and adopter communities - representing the voice of external users building on your open source code and funneling information back to the product management team. 
 
@@ -188,13 +188,13 @@ Projects start with the majority of contributions coming from internal developer
 
 Projects that are consistently attracting new external contributors are likely doing a good job maintaining the project, welcoming contributors, and incorporating feedback from the community. (Note: This may still be true for projects that aren’t growing their contributor base!)
 
-![Kubernetes contributors (git-author) over time](measuring-your-open-source-program2.png)
+![Kubernetes contributors (git-author) over time](images/measuring-your-open-source-program2.png)
 
 ### Number of pull requests submitted, open, and accepted (and length of time they remain open)
 
 When a contributor finds a bug or has a feature request that they can (and have clearance to) patch or write themselves, they do so and submit it as a pull request (PR). Tracking the number of pull requests, and what happens with them, demonstrates how much code is being submitted by contributors outside of your employ and is thus an indicator of the level of outside interest in your projects. 
 
-![Kubernetes tracks open and closed pull requests over time using Bitergia Analytics.](measuring-your-open-source-program3.png)
+![Kubernetes tracks open and closed pull requests over time using Bitergia Analytics.](images/measuring-your-open-source-program3.png)
 
 The length of time PRs remain open also indicates how responsive and welcoming your project maintainers are to outside contributors. If a PR sits for too long without response, potential contributors may take their good ideas elsewhere.
 
@@ -210,7 +210,7 @@ Users who do not have the time, permission, or ability to submit a pull request,
 
 This number depends, of course on how issues are tracked. For a project that's only using GitHub to track bugs, issues are probably going to stay open for a much shorter time than a project that's using GitHub for issues that includes feature requests. These considerations drag down, or drag up, the issue age. 
 
-![Kubernetes issues opened and closed over time.](measuring-your-open-source-program4.png)
+![Kubernetes issues opened and closed over time](images/measuring-your-open-source-program4.png)
 
 ### Number of commits per contributor (external vs. internal)
 
