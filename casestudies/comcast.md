@@ -6,7 +6,7 @@ Comcast began contributing to open source around 2006 when Jon Moore, Chief Soft
 
 Working with an interdisciplinary team, Moore worked to set up an open source advisory council, which consisted of legal and technical subject matter experts. They reviewed contributions and created internal guidelines focused on good open source practices and community building. In 2013, when they started tracking these contributions, they had 13. This year, they plan to do almost 10x that. 
 
-*"When companies establish open source practices they send a big message saying that we're serious about open source and that we want to invest in it."* - Nithya Ruff, Senior Director Open Source Practice at Comcast.
+> "When companies establish open source practices they send a big message saying that we're serious about open source and that we want to invest in it."* - Nithya Ruff, Senior Director Open Source Practice at Comcast.
 
 **Six C’s of Open Source Program Practice**
 
@@ -22,7 +22,7 @@ The open source practice has two main goals.
 
 2. Be visible externally in open source and technology communities. Many people don't know that Comcast is a technology company with thousands of developers so they want to raise awareness and share what they’re doing.
 
-**Open source c****ontributions**
+**Open source contributions**
 
 Comcast has [open sourced a few projects](https://github.com/Comcast) in addition to contributing significantly to existing open source communities, like OpenStack. [Apache Traffic Control](https://trafficcontrol.incubator.apache.org/) was started within Comcast and has been contributed to the Apache Software Foundation where it is currently in incubation.
 
@@ -38,7 +38,7 @@ Through these contributions, Comcast has benefited from the goodwill that comes 
 
 **Aligning with the Business**
 
-"*The establishment of the practice, visible engagement at the foundation level, increased contributions, leadership support, and tooling support as a company have made it easy to do open source.*" - Nithya Ruff, Senior Director Open Source Practice at Comcast.
+> "The establishment of the practice, visible engagement at the foundation level, increased contributions, leadership support, and tooling support as a company have made it easy to do open source.*" - Nithya Ruff, Senior Director Open Source Practice at Comcast.
 
 It’s important to make sure that your company’s open source strategies are closely aligned with its business strategy. The open source office should really understand the goals of the company and enable them in the open source strategy. This strategic alignment allows the open source practice to remain aligned with the broader company goals at Comcast to encourage long-term success for the practice and the company as a whole.
 
