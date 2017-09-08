@@ -12,3 +12,7 @@ These Open Source Guides are a set of resources developed by the TODO Group in c
 * [Salesforce](casestudies/salesforce.md)
 
 If you have an open source program and you're interested in adding a case study, please send a pull request!
+
+## License
+
+All content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
