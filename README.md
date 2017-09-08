@@ -4,7 +4,7 @@ These Open Source Guides are a set of resources developed by the TODO Group in c
 
 ## Open Source Guides
 
-* [How to Create an Open Source Program](creating-an-open-source-program.md.md)
+* [How to Create an Open Source Program](creating-an-open-source-program.md)
 
 ## Open Source Program Case Studies
 
