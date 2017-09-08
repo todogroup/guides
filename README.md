@@ -6,7 +6,7 @@ These Open Source Guides are a set of resources developed by the TODO Group in c
 
 * [How to Create an Open Source Program](creating-an-open-source-program.md)
 * [Measuring Your Open Source Program](measuring-your-open-source-program.md)
-* [Tools for Measuring Your Open Source Program](tools-for-managing-open-source-programs.md)
+* [Tools for Managing Your Open Source Program](tools-for-managing-open-source-programs.md)
 
 ## Open Source Program Case Studies
 
