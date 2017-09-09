@@ -1,14 +1,22 @@
 # TODO Guides
 
-These Open Source Guides are a set of resources developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. These guides are a collection of best practices sourced from the leading companies in open source and are designed to help you successfully implement and run an open source program office in your organization.
+These Open Source Guides are a set of resources developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. These guides are a collection of best practices sourced from the leading companies in open source and are designed to help you successfully implement and run an open source program office in your organization. We expect these guides to be living documents and evolve them over time from contributions from the community.
 
 A special thank you to GitHub and their [community guides](https://github.com/github/opensource.guide) for open source creators which we took inspiration from.
 
 ## Open Source Guides
 
+Want to build a successful open source program, start here:
+
 * [How to Create an Open Source Program](creating-an-open-source-program.md)
 * [Measuring Your Open Source Program](measuring-your-open-source-program.md)
-* [Tools for Managing Your Open Source Program](tools-for-managing-open-source-programs.md)
+* [Tools for Measuring Your Open Source Program](tools-for-managing-open-source-programs.md)
+
+Listed below are open source program management best practices:
+
+* [Using Open Source Code](using-open-source.md)
+* [Participating in Open Source Communities](participating-in-open-source.md)
+* [Recruiting Open Source Developers](recruiting-developers.md)
 
 ## Open Source Program Case Studies
 

@@ -269,3 +269,5 @@ Having the right tools is critical to empowering your company’s open innovatio
 Contributors: 
 * [Chris Aniszczyk](https://twitter.com/cra), COO of the Cloud Native Computing Foundation.
 * [Jeff McAffer](https://twitter.com/jeffmcaffer), Director of the Open Source Programs Office at Microsoft.
+
+> These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)

@@ -240,3 +240,4 @@ Contributors to this guide:
 * [Will Norris](https://twitter.com/willnorris?lang=en), open source office manager at Google
 * [Andrew Spyker](https://twitter.com/aspyker), container cloud manager at Netflix
 
+> These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)
