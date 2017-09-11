@@ -4,6 +4,17 @@ The road to strategic use of open source starts with a carefully planned, organi
 
 This guide provides details and scenarios for how to get your open source tool collection started, including information about the most important tools to use to track and manage your open source projects. Many of the tools have been created and open-sourced by The Linux Foundation and other leaders in the field, providing free and easy access for your projects. You’ll also find an example dashboard setup which combines and displays information from multiple tools.
 
+**Table of Contents**
+
+- [Why you need special tools for open source program management](#why-you-need-special-tools-for-open-source-program-management)
+- [How to select and plan your tools](#how-to-select-and-plan-your-tools)
+- [Elements of a basic toolset](#elements-of-a-basic-toolset)
+- [Tools for managing source code](#tools-for-managing-source-code)
+- [Tools for tracking project health](#tools-for-tracking-project-health)
+- [Tools for communications and collaboration](#tools-for-communications-and-collaboration)
+- [Tools for corporate-scale GitHub management](#tools-for-corporate-scale-github-management)
+- [Final words](#final-words)
+
 ## Why you need special tools for open source program management
 
 Once your open source program office is up and running, it's time to collect the right software tools that will allow your development teams to manage, track, guide, and advance their open source projects, contributions, and releases.
