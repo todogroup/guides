@@ -4,14 +4,6 @@ Experienced open source developers are in short supply. To attract top talent, c
 
 Your open source program can become one of your most effective recruiting tools. This guide covers how organizations can recruit developers, or build internal talent, by building an open source culture, contributing to open source communities, and creating open source projects.
 
-**Contents**
-
-1. [Why you need a recruitment strategy](#1)
-2. [Open source as a recruitment tool](#2)
-3. [Challenges to open source retention](#3)
-4. [Recruit or train?](#4)
-5. [Five Strategies to recruit and retain open source developers](#5)
-
 ## Why you need a recruitment strategy
 
 The growing shortage of developers is well documented. According to a recent Cloud Foundry report, there are a quarter-million job openings for software developers in the U.S. alone and half a million unfilled jobs that require tech skills. And they're forecasting the number of unfillable developer jobs to reach one million within the next decade. 
@@ -234,29 +226,10 @@ For additional ideas on recruiting and retention strategies, see the predecessor
 
 Contributors:
 
-![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_jeff.png)
-Jeff Olser-Mixon
-Open Source Community Manager
-Intel Corporation 
-
-![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_gil.png) 
-Gil Yehuda
-Senior Director, Open Source
-Oath 
-
-![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_guy.png) 
-Guy Martin
-Director, Open at Autodesk
-Autodesk 
-
-![](https://www.linuxfoundation.org/wp-content/uploads/2017/08/Nithya_thumb.png) 
-Nithya Ruff
-Senior Director, Open Source Practice
-Comcast 
-
-![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_ian.png) 
-Ian Varley
-Software Architect
-Salesforce
+* Jeff Olser-Mixon, Open Source Community Manager (Intel Corporation)
+* Gil Yehuda, Senior Director, Open Source (Oath)
+* Guy Martin, Director, Open at Autodesk (Autodesk)
+* Nithya Ruff, Senior Director, Open Source Practice (Comcast)
+* Ian Varley, Software Architect (Salesforce)
 
 > These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)
