@@ -4,6 +4,15 @@ Experienced open source developers are in short supply. To attract top talent, c
 
 Your open source program can become one of your most effective recruiting tools. This guide covers how organizations can recruit developers, or build internal talent, by building an open source culture, contributing to open source communities, and creating open source projects.
 
+**Table of Contents**
+
+- [Why you need a recruitment strategy](#why-you-need-a-recruitment-strategy)
+- [Open source as a recruitment tool](#open-source-as-a-recruitment-tool)
+- [Challenges to open source retention](#challenges-to-open-source-retention)
+- [When to recruit vs. train](#when-to-recruit-vs-train)
+- [Five strategies for recruiting open source developers](#five-strategies-for-recruiting-open-source-developers)
+- [Acknowledgements](#acknowledgements)
+
 ## Why you need a recruitment strategy
 
 The growing shortage of developers is well documented. According to a recent Cloud Foundry report, there are a quarter-million job openings for software developers in the U.S. alone and half a million unfilled jobs that require tech skills. And they're forecasting the number of unfillable developer jobs to reach one million within the next decade. 
