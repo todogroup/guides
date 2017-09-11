@@ -4,6 +4,19 @@ A central open source program office is a designated place where open source is 
 
 This guide was created to help you figure out why and how to establish a program to manage the open source use and creation inside your company, as well as to show how your developers can make their own contributions to open source projects outside your operations. It will cover topics for open source offices including: roles and responsibilities, corporate structures, elements of an open source management program, how to choose and hire an open source program manager, and more.
 
+**Table of Contents**
+
+- [Why create an open source program office](#why-create-an-open-source-program-office)
+- [The role of the open source program office](#the-role-of-the-open-source-program-office)
+- [Example: Open source program at Google](#example-open-source-program-at-google)
+- [Establishing an open source office](#establishing-an-open-source-office)
+- [Program Structure](#program-structure)
+- [Management roles](#management-roles)
+- [Setting policy and processes](#setting-policy-and-processes)
+- [Final words](#final-words)
+- [Example open source program job listing](#example-open-source-program-job-listing)
+- [Acknolwedgements](#acknolwedgements)
+
 ## Why create an open source program office
 
 Open source software is widely used today by companies in a broad range of industries from retail to finance to automotive, and more, but it's not always fully understood by the executive leaders and decision-makers running the operations. 
@@ -183,7 +196,7 @@ Your organization should also strive to adopt an "upstream first" development po
 
 Unless your open source projects are housed at a neutral foundation, you’ll want toRules that set out procedures for your company to receive contributions to your own open source projects from external developers are particularly important. 
 
-*"You actually don't want to be the only people contributing to your open source project. You want to have people outside your company contribute to your open source project, because at the end of the day, there's no way to hire all the smartest people in the world.** **It's impossible. Even if you're Google, it's impossible." *- [Chris Aniszczyk](https://twitter.com/cra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), COO of the Cloud Native Computing Foundation.
+> "You actually don't want to be the only people contributing to your open source project. You want to have people outside your company contribute to your open source project, because at the end of the day, there's no way to hire all the smartest people in the world. It's impossible. Even if you're Google, it's still impossible." - [Chris Aniszczyk](https://twitter.com/cra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), COO of the Cloud Native Computing Foundation.
 
 That is, of course, one of the benefits of putting your company's open source code out into other communities and to inviting other developers to establish an interest in your own projects. Because in the grand scheme of things, even though they are not officially your employees, you can have brilliant people working on your company's code from around the world, making it better and expanding its capabilities. This kind of collaboration is important for companies and is a common focus for many open source program offices.
 
