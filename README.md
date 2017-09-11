@@ -2,7 +2,7 @@
 
 These Open Source Guides are a set of resources developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. These guides are a collection of best practices sourced from the leading companies in open source and are designed to help you successfully implement and run an open source program office in your organization. We expect these guides to be living documents and evolve them over time from contributions from the community.
 
-A special thank you to GitHub and their [community guides](https://github.com/github/opensource.guide) for open source creators which we took inspiration from.
+For more great open source guides tailored to individual contributors, we encourage you to check out GitHub's [community guides](https://github.com/github/opensource.guide). 
 
 ## Open Source Guides
 
