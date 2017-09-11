@@ -37,7 +37,7 @@ Careful (and strategic) measurement also makes great fodder for reports to upper
 
 Facebook’s open source program office, for example, periodically posts the month-over-month results from its open source projects internally and sends an executive report to management. 
 
-> "Reports are just a good way to raise awareness. Even though Facebook does value open source (as an organization), it's still always a good thing to market yourself internally all the time and show your value." - [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
+> "Reports are just a good way to raise awareness. Even though Facebook places a high value open source (as an organization), it's still always a good thing to market yourself internally all the time and show your value." - [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
 
 Publishing the results publicly on a regular basis also helps raise awareness of your organization’s open source activities among potential partners, users, and developers.
 
@@ -49,7 +49,7 @@ It’s OK to have lofty goals for your open source program, but set reasonable e
 
 ![The Cloud Native Computing Foundation’s project dashboard](images/measuring-your-open-source-program1.png)
 
-Next, get all of the open source program managers and stakeholders together -- at Facebook, that’s about five people -- and decide as a group where you want to go over the next 3-6 months (small, achievable increments). At the end of that time period, look back at how you did and adjust goals and tactics for the next pass, based on the previous pass.
+Next, get all of the open source program managers and stakeholders together -- at Facebook, this includes the engineering leads and project maintainers -- and decide as a group where you want to go over the next 3-6 months (small, achievable increments). At the end of that time period, look back at how you did and adjust goals and tactics for the next pass, based on the previous pass.
 
 > "I tend to find metrics based on what the community is feeling as pain, and try to change those metrics for the better to improve the community health." - [Sarah Novotny](https://twitter.com/sarahnovotny), Kubernetes Community Manager at Google.
 
@@ -139,7 +139,7 @@ But chances are that you as a program manager will not have a direct role in rec
 * How did that awareness influence their decision to join the company?
 * Does their experience with open source apply to the work that they are doing now? 
 
-> "We don't have goals around the survey but it's good to know that the numbers are trending upwards. That speaks to the overall effectiveness of how people view our open source projects." - [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
+> "We use the survey to measure the health of our open source culture and it speaks to the overall effectiveness of how people view our open source projects. It's good to know the numbers trend upwards." - [Christine Abernathy](https://twitter.com/abernathyca), Open Source Developer Advocate at Facebook.
 
 Other common metrics for developer recruitment include:
 
