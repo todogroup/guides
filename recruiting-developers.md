@@ -150,7 +150,7 @@ But the most effective recruitment strategies aim toward a more complete open so
 
 > "A lot of how you recruit should center on thinking consciously about how you change the perception of the open source community on what your company is about." [Guy Martin](https://www.linkedin.com/in/guywmartin/) - Director of Open at Autodesk (Open@ADSK)
 
-> "When companies establish open source practices they send a big message saying that we're serious about open source and that we want to invest in it." [Nithya Ruff](https://twitter.com/nithyaruff) - Senior Director Open Source Practice at Comcast**
+> "When companies establish open source practices they send a big message saying that we're serious about open source and that we want to invest in it." [Nithya Ruff](https://twitter.com/nithyaruff) - Senior Director Open Source Practice at Comcast
 
 Showcasing the work your company is doing in its own open source projects is vitally important since developers cite their ability to work on interesting projects as the most effective way that recruiters can get their attention.
 
