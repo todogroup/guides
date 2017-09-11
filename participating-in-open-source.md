@@ -6,15 +6,17 @@ However, diving in without an understanding of those projects, their communities
 
 This guide covers what it means to contribute to open source as an organization and how to become a good corporate citizen. Learn how open source projects are structured, how to contribute, why it's important to devote internal developer resources to participation, and why it's important to create a strategy for open source participation and management.
 
-**Contents**
+**Table of Contents**
 
-1. [Why contribute?](#1)
-2. [How open source projects are managed?](#2)
-3. [How contributions work](#3)
-4. [How organizations contribute](#4)
-5. [Be a good corporate citizen](#5)
-6. [Your contribution strategy](#6)
-7. [Final words](#7)
+- [Why contribute to open source?](#why-contribute-to-open-source)
+- [How open source projects are managed](#how-open-source-projects-are-managed)
+- [How contributions work](#how-contributions-work)
+- [What it means for an organization to contribute](#what-it-means-for-an-organization-to-contribute)
+- [How to be a good corporate citizen when participating in an open source project](#how-to-be-a-good-corporate-citizen-when-participating-in-an-open-source-project)
+- [Best Practices to Contribute Code Upstream](#best-practices-to-contribute-code-upstream)
+- [How to create your open source contribution strategy](#how-to-create-your-open-source-contribution-strategy)
+- [11 Tips for Mastering Open Source Contributions](#11-tips-for-mastering-open-source-contributions)
+- [Final Words](#final-words)
 
 ## Why contribute to open source?
 
