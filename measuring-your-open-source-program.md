@@ -4,6 +4,17 @@ Open source program managers must demonstrate the ROI of their efforts. This gui
 
 Learn what to measure, how to define success, and how to best use this information to advance your open source program objectives, demonstrate effectiveness, and gain support.
 
+**Table of Contents**
+
+- [How to define success](#how-to-define-success)
+- [Why set goals?](#why-set-goals)
+- [How to set goals](#how-to-set-goals)
+- [Common goals](#common-goals)
+- [What to track](#what-to-track)
+- [Other metrics to track](#other-metrics-to-track)
+- [Final words](#final-words)
+- [Acknowledgements](#acknowledgements)
+
 ## How to define success
 
 Smart organizations understand the value of investing in open source development and set goals related to open source use and participation. But every open source program defines success a little differently. The goals you set, and metrics you track, will vary according to the reasons you’re investing in open source -- whether it’s to recruit developers, bring in new ideas and technologies through open innovation, achieve faster time to market, lower development costs, or myriad other reasons. 
