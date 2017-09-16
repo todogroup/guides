@@ -1,8 +1,8 @@
 # How to Create an Open Source Program 
 
-A central open source program office is a designated place where open source is supported, nurtured, shared, explained, and grown inside a company. With such an office in place, businesses can establish and execute on their open source strategies in clear terms, giving their leaders, developers, marketers, and other staff the tools they need to make open source a success within their operations.
+A central open source program office is responsible for supporting, nurturing, sharing, explaining, and growing a company's open source offering. Having such an office enables businesses to establish and execute coherent open source strategies—giving their leaders, developers, marketers, and other staff the necessary tools for success.
 
-This guide aims to help you figure out why and how to establish a program to manage the open source use and creation inside your company, as well as to show how your developers can make their own contributions to open source projects outside your operations. It will cover topics for open source offices including: roles and responsibilities, corporate structures, elements of an open source management program, how to choose and hire an open source program manager, and more.
+This guide aims to help your company determine whether and how to establish such a program office. It covers essential topics for open source offices, including: roles and responsibilities, corporate structures, management program fundamentals, choosing and hiring an open source program manager, empowering developers to make open source contributions outside your organization, and more.
 
 **Table of Contents**
 
@@ -10,50 +10,48 @@ This guide aims to help you figure out why and how to establish a program to man
 - [The role of the open source program office](#the-role-of-the-open-source-program-office)
 - [Example: Open source program at Google](#example-open-source-program-at-google)
 - [Establishing an open source office](#establishing-an-open-source-office)
-- [Program Structure](#program-structure)
+- [Program structure](#program-structure)
 - [Management roles](#management-roles)
 - [Setting policy and processes](#setting-policy-and-processes)
 - [Final words](#final-words)
 - [Example open source program job listing](#example-open-source-program-job-listing)
-- [Acknolwedgements](#acknolwedgements)
+- [Acknowledgements](#acknowledgements)
 
 ## Why create an open source program office
 
-Open source software is widely used today by companies in a broad range of industries from retail to finance to automotive, and more. However, it's not always fully understood by the executive leaders and decision-makers running the operations. 
+Use of open source software has become ubiquitous. Companies in a broad range of industries, from retail to finance to automotive, rely upon it to run, grow and innovate. However, executive leaders and decision-makers don't always fully understand its management and governance. 
 
-A key problem is that, while enterprises develop and follow traditional business plans which dictate their operations and goals, open source software can be baffling. Open source innovation has a methodology of its own and doesn't follow traditional business processes. One of its biggest differences is that open source development is collaborative, while traditional software and business practices are proprietary and closed. For many businesses, the needed change in philosophy when approaching open source use doesn't come easily or naturally.
+For enterprises that develop and follow traditional business plans dictating their operations and goals, open source software can be baffling. Open source innovation has a methodology of its own and doesn't follow traditional business processes. One of its biggest differences is that open source development is collaborative, while traditional software and business practices are proprietary and closed. For many businesses, the needed change in philosophy when approaching open source use doesn't come easily or naturally.
 
-That's where the creation of an open source program can be a major boon. By creating an open source program office, businesses can enable, streamline and organize the use of open source in ways that tie it directly to a company's long-term business plans. An open source program office is designed to be the center of the universe for a company's open source operations and structure, helping to bring all the needed components together. 
-
-This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement. The office can also provide advocacy and communications about all things open source inside and outside the company.
+That's where creating an open source program can be a major boon. Such programs enable businesses to streamline, organize and integrate open source use into their long-term plans. An open source program office is the hub of a company's open source operations and structure, bringing together all the needed components: setting policies related to code use, distribution, selection, and auditing; training developers; ensuring legal compliance; and promoting and building community engagement. It can also provide internal and external advocacy and communications about all things open source.
 
 > "The open source program office is an [essential part of any modern company](https://opensource.com/business/16/5/whats-open-source-program-office) with a reasonably ambitious plan to influence various sectors of software ecosystems. If a company wants to increase its influence, clarify its open source messaging, maximize the clout of its projects, or increase the efficiency of its product development, a multifaceted approach to open source programs is essential." *- John Mark Walker, founder of the Open Source Entrepreneur Network (OSEN).
 
 ## The role of the open source program office  
 
-Ultimately, a well-organized open source program office is valuable because it can advance open source use, contribution, and creation inside companies for strategic advantage. 
+A well-organized open source program office effectively advances open source use, contribution, and creation inside companies for strategic advantage.
 
-A successful office can greatly benefit corporate open source use by establishing processes that enable developers and their teams. It encourages standard coding and organizational practices, processes, and toolsets. At the same time, a program office can help avoid or remove unneeded, rigid processes which creative developers may circumvent or ignore anyway, threatening security and other aspects of projects. 
+A successful office benefits corporate open source use by establishing simple, thorough, and clear processes that empower developers and their teams. It encourages standard coding and organizational practices and toolsets while steering away from (or removing) unneeded, rigid regulations that creative developers would circumvent or ignore—threatening security and project quality. 
 
-The responsibilities of a program office are varied. These include: 
+One of the primary roles of a program office is to ensure that business units that are planning to use or develop open source make informed decisions based on substance and fact. The program office drives understanding of how and why to use open source, and the requirements and consequences of doing so. It frames conversations so that stakeholders know where to start and what to think about as they weigh their decision.
+
+The program office can also be a critical liaison between developers and open source user communities whenever issues or requirements arise. It can assist with legal issues, provide developer advocacy, and negotiate with external users. To advance and enhance development, it can relay user feedback and insights to others inside the company, including the product management team. Open source offices are increasingly hiring dedicated developer advocates who focus on ensuring project growth and sustainability.
+
+The responsibilities of a program office vary, but typically include: 
 
 * Clearly communicating the open source strategy within and outside the company
-* Owning and overseeing the execution of the strategy (see our guide to creating an open source strategy for business)
-* Facilitating the effective use of open source in commercial products and services
-* Ensuring high-quality and frequent releases of code to open source communities
-* Engaging with developer communities and seeing that the company contributes back to other projects effectively 
-* Fostering an open source culture within an organization 
+* Owning and overseeing strategy implementation (see our guide to creating an open source strategy for business)
+* Facilitating effective use of open source in commercial products and services
+* Ensuring high-quality and frequent public code releases
+* Engaging with developer communities and ensuring external contributions/giving back
+* Fostering internal open source culture and awareness
 * Maintaining open source license compliance reviews and oversight 
 
-For every company, the role of the open source program office will likely be custom-configured based on its business, products, and goals. There is no broad template for building an open source program that applies across all industries — or even across all companies in a single industry. That can make its creation a challenge, but you can learn lessons from other companies and bring them together to fit your own organization’s requirements.
+Companies customize the role of their open source program offices based on their business models, products, and goals. No cookie-cutter solution exists, even for companies inside the same industry. This poses challenges, but learning lessons from other companies and bringing them together to fit your own organization’s requirements works well.
 
 > "There isn’t a one size fits all model. I can't stand up in front of a crowd and say, 'This is how you should do it,'" - [Jeff McAffer](https://twitter.com/jeffmcaffer), director of the [Open Source Programs Office at Microsoft](https://opensource.microsoft.com/resources/office). 
 
-Microsoft has been working over the last several years to create and refine its own open source approach. With tens of thousands of employees in a wide range of business units, Microsoft's dedicated open source program office works to assist developers, marketing teams and others who are engaging with open source for cloud services, hardware and software products, games, content, media, and other product lines. Each division requires different assistance based on its individual business models and engagement scenarios, making it impossible to serve them all with the same offerings.
-
-A key role for the open source program office is to bring substance and facts to the conversation when business units begin to consider open source in their plans so there is a full understanding of why it is being considered, what the consequences will be, and what is needed to reach its goals. It’s often a matter of framing the conversation so that stakeholders know where to start and what to think about as they weigh their decision.
-
-The program office can also be a critical liaison between developers and the open source user communities to resolve and understand issues or requirements that arise. The program office can assist with legal issues, provide developer advocacy, and act as a voice for external users who are building on a company's open source projects. The program office can also help relay that information to others inside the company, including the product management team, to further advance the code. In addition, open source offices are increasingly hiring dedicated developer advocates to focus on making sure that their projects grow and are sustainable.
+Microsoft created and refined its open source approach over several years to serve tens of thousands of employees representing a wide range of business units: cloud services, hardware and software products, games, content, media, and other product lines. Its dedicated open source program office assists developers, marketing teams and others based on their individualized business models and engagement scenarios. Serving them all with the same offerings wouldn't be effective.
 
 ![Source: Ibrahim Haddad, http://www.ibrahimatlinux.com/charts.html](images/creating-an-open-source-program1.png)
 
