@@ -21,6 +21,7 @@ Listed below are open source program management best practices:
 ## Open Source Program Case Studies
 
 * [Comcast](casestudies/comcast.md)
+* [Facebook](casestudies/facebook.md)
 * [Salesforce](casestudies/salesforce.md)
 
 If you have an open source program and you're interested in adding a case study, please send a pull request!
