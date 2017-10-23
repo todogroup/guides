@@ -19,6 +19,7 @@ Listed below are open source program management best practices:
 * [Recruiting Open Source Developers](recruiting-developers.md)
 * [Starting an Open Source Project](starting-an-open-source-project.md)
 * [Open Source Reading List](open-source-reading-list.md)
+* [Improve Your Open Source Development Impact](improve-open-source-dev-impact.md)
 
 ## Open Source Program Case Studies
 
