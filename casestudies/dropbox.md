@@ -49,10 +49,3 @@ Faraone offers the following tips to help ensure success when developing an open
 * When compared to tracking community ecosystem health and evaluating whether your program is creating business value, tracking metrics such as lines of code created has less value.
 
 * Evaluate whether you are choosing highly restrictive licenses, and if you are, what impact that will have as you start receiving external contributions.
-
-approve_by_comment: true
-approve_regex: ^LGTM
-reject_regex: ^Rejected
-reset_on_push: true
-author_approval: ignored
-signed_off_by:
