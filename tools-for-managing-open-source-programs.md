@@ -131,6 +131,8 @@ Here are some of the most popular and useful source code management tools which 
 
 [Black Duck Protex](https://www.blackducksoftware.com/products/protex) – Protex is a commercial, fee-based license compliance management tool from Black Duck which integrates with existing tools to automatically scan, identify and inventory open source software, while also enforcing license compliance and corporate policy requirements.
 
+[TripleCheck](https://triplecheck.tech) – An X-ray for software. Discover licenses, copyright references, icons and plagiarized code snippets inside the products developed by your teams. Both the tool and database works offline from a laptop (plug&play). 
+
 [Copyright review tools](https://wiki.debian.org/CopyrightReviewTools) - This collection of command line tools help make initial copyright file construction and subsequent review and update easier. 
 
 [dep-checker](http://git.linuxfoundation.org/dep-checker.git/) – A dependency checker tool from The Linux Foundation, dep-checker performs a complete analysis of linkages between code packages.
