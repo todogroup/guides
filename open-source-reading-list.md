@@ -8,11 +8,15 @@ An overview of research findings on open innovation in the enterprise.
 
 ![New Frontiers in Open Innovation](open-source-reading-list1.jpg)
 
-[The Open Organization: Igniting Passion and Performance](https://hbr.org/product/the-open-organization-igniting-passion-and-performance/13980-HBK-ENG), Harvard Business Review Press, by Jim Whitehurst (2012)
+[The Open Organization: Igniting Passion and Performance](https://hbr.org/product/the-open-organization-igniting-passion-and-performance/13980-HBK-ENG), Harvard Business Review Press, by Jim Whitehurst (2015)
 
-Red Hat’s guide on how to structure and manage an organization that’s open source to the core, from the world’s first billion-dollar open source company.
+Red Hat’s guide on how to structure and manage an organization that's open source to the core, from the world's first billion-dollar open source company.
 
 ![The Open Organization: Igniting Passion and Performance](open-source-reading-list2.jpg)
+
+[The Open Organization book series from Opensource.com](https://opensource.com/open-organization/resources/book-series)
+
+The open organization community turns Jim Whitehurst's _The Open Organization_ into a book series, with installments including _The Open Organization Leaders Manual_, _The Open Organization Guide to IT Culture Change_, and _The Open Organization Workbook_.
 
 [Open Innovation: The New Imperative for Creating And Profiting from Technology](https://www.amazon.com/Open-Innovation-Imperative-Profiting-Technology/dp/1422102831), Harvard Business School Press, by Henry Chesbrough (2005)
 
