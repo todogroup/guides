@@ -6,7 +6,7 @@ As with many other companies, the open source program started informally with a 
 
 The top five of Oath’s numerous open source goals, according to Yehuda, are:
 
-1. Keep aligned with the industry on open source technology standards by avoiding creating unique tech stack that Oath alone would have to manage at its own expense.
+1. Keep aligned with the industry on open source technology standards by avoiding creating unique tech stacks that Oath alone would have to manage at its own expense.
 2. Make it easy for engineers to interact with open source as users and as contributors.
 3. Be viewed as an open source friendly company for partnerships and collaborations.
 4. Be known as a great place for engineers to work on open source projects.
