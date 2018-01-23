@@ -20,6 +20,7 @@ For open source program management best practices:
 * [Starting an Open Source Project](starting-an-open-source-project.md)
 * [Open Source Reading List](open-source-reading-list.md)
 * [Improve Your Open Source Development Impact](improve-open-source-dev-impact.md)
+* [Shutting Down an Open Source Project](shutting-down-an-open-source-project.md)
 
 ## Open Source Program Case Studies
 
