@@ -247,26 +247,17 @@ Happy hacking!
 
 ## References
 
-### **Samsung Open Source Group **
-
-### [https://blogs.s-osg.org/](https://blogs.s-osg.org/) 
-
-### **GrimoireLab **– An open source software development and community analytics platform. 
-
-### [https://grimoirelab.github.io/](https://grimoirelab.github.io/) 
-
-### **Compliance Basics for Developers – **A free online training course offered by The Linux Foundation.
-
-### [https://training.linuxfoundation.org/](https://training.linuxfoundation.org/) 
-
-### **gitdm **– The "git data miner" is a tool created by Jonathan Corbet (LWN.net) and Greg Kroah-Hartman (Linux Kernel Maintainer and Fellow at the Linux Foundation) to track Linux kernel patches. 
-
-[git://git.lwn.net/gitdm.git](git://git.lwn.net/gitdm.git) 
-
-## **Facade** – A tool for monitoring who is contributing code to git repositories. It was authored by Brian Warner (Manager of Engineering and Strategy for Samsung’s OSG).
-
-## [https://github.com/brianwarner/facade](https://github.com/brianwarner/facade) 
+* Samsung Open Source Group
+  * [https://blogs.s-osg.org/](https://blogs.s-osg.org/) 
+* **GrimoireLab** - An open source software development and community analytics platform. 
+  * [https://grimoirelab.github.io/](https://grimoirelab.github.io/) 
+* **Compliance Basics for Developers** - A free online training course offered by The Linux Foundation.
+  * [https://training.linuxfoundation.org/](https://training.linuxfoundation.org/) 
+* **gitdm** – The "git data miner" is a tool created by Jonathan Corbet (LWN.net) and Greg Kroah-Hartman (Linux Kernel Maintainer and Fellow at the Linux Foundation) to track Linux kernel patches. 
+  * [git://git.lwn.net/gitdm.git](git://git.lwn.net/gitdm.git) 
+* **Facade** – A tool for monitoring who is contributing code to git repositories. It was authored by Brian Warner (Manager of Engineering and Strategy for Samsung’s OSG).
+  * [https://github.com/brianwarner/facade](https://github.com/brianwarner/facade) 
 
 ## Acknowledgments
 
-### This was a collaborative effort spearheaded by Ibrahim Haddad (Ph.D.) who is Vice President of R&D and the Head of the Open Source Group at Samsung Research America. We would like to express his sincere gratitude to Ben Lloyd Pearson (Operations and Strategy, Samsung Open Source Group for the continuous support, reviews and edits (following the open source model) that shaped this article and helped get it to the finish line. Big thanks also goes to Brian Warner (Manager of Open Source Engineering and Strategy, Samsung Open Source Group) and Gil Yehuda (Open Source at Oath) for their review and feedback. 
+This was a collaborative effort spearheaded by Ibrahim Haddad (Ph.D.) who is Vice President of R&D and the Head of the Open Source Group at Samsung Research America. We would like to express his sincere gratitude to Ben Lloyd Pearson (Operations and Strategy, Samsung Open Source Group for the continuous support, reviews and edits (following the open source model) that shaped this article and helped get it to the finish line. Big thanks also goes to Brian Warner (Manager of Open Source Engineering and Strategy, Samsung Open Source Group) and Gil Yehuda (Open Source at Oath) for their review and feedback.
