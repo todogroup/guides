@@ -52,7 +52,7 @@ These early steps lay the groundwork for project success by establishing a level
 
 Whatever the reason, there may come to decide whether an open source project should be ended or transferred to another entity or whether your enterprise should end its participation in the project. It could be because your business goals have changed and that the project no longer corresponds with your new direction. Or, maybe it's because a key person or team that headed the effort leaves the company, or that project performance metrics such as participation, updates, and usage are declining drastically based on your latest user data. It's also possible that disagreements have arisen among community members about the future of the project and it looks like changes may be needed. 
 
-### Disagreements can influence new project directions**
+### Disagreements can influence new project directions
 
 If disagreements have arisen about the project inside the community -- whether about its scope, technical matters, licensing or other issues -- then you might consider splitting the project to allow interested parties to pursue what's important to them. A similar quandary helped inspire developer Linus Torvalds to create Linux back in 1991. Torvalds had been experimenting with Minix, a small UNIX-like operating system kernel developed by Andrew S. Tanenbaum to teach college students about coding. Torvalds created Linux after he decided Minix had a radically different scope and vision, leaving him to create his own separate operating system.
 
@@ -154,4 +154,4 @@ Contributors to this guide:
 * Jared Smith, Open Source Community Manager at Capital One
 * [Dr. David A. Wheeler](https://www.dwheeler.com/), open source expert and lead for two projects with The Linux Foundation's Core Infrastructure Initiative (CII)
 
-> These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)
+*These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)*
