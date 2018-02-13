@@ -8,6 +8,7 @@ We've had many organizations approach TODO Group members asking for advice on ho
 * [Comcast](comcast.md)
 * [Dropbox](dropbox.md)
 * [Facebook](facebook.md)
+* [Microsoft](microsoft.md)
 * [Oath](oath.md)
 * [Red Hat](redhat.md)
 * [Salesforce](salesforce.md)
