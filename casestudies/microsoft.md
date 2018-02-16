@@ -52,6 +52,8 @@ Consumption of open source is an entirely different matter, and a different proc
 
 > "We've been trying to see ways we can tease that out and make more of that available to the open source community more broadly, but it's been a bit hard because it is very specific in many ways to our business policy or our engineering system, which isn't going to be the same as anybody else's," McAffer said.
 
+The Microsoft open source journey has been an interesting one over the years and in the true open source spirit, we hope to share what we learned with everyone in that process, from tools to code.
+
 ## Acknowledgements 
 
 We would like to thank Carol Smith, Senior Open Source Program Manager at Microsoft and Jeff McAffer, Director of Open Source Programs Office at Microsoft for being interviewed. We would also like to thank Pam Baker for performing the interview.
