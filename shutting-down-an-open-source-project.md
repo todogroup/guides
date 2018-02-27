@@ -144,7 +144,7 @@ Shuttering, transferring, or leaving an open source project is inevitably a step
 
 By developing and including simple plans to shutter an open source project even as you begin planning a fledgling project's first steps, you will ensure a healthy life cycle management plan. These plans will help your open source projects run as efficiently and successfully as possible from their lofty starts to their eventual quieter endings. 
 
-## Acknolwedgements
+## Acknowledgements
 
 Contributors to this guide:
 
