@@ -28,7 +28,9 @@ For open source program management best practices:
 * [Comcast](casestudies/comcast.md)
 * [Dropbox](casestudies/dropbox.md)
 * [Facebook](casestudies/facebook.md)
+* [Microsoft](casestudies/microsoft.md)
 * [Oath](casestudies/oath.md)
+* [RedHat](casestudies/redhat.md)
 * [Salesforce](casestudies/salesforce.md)
 
 If your open source program would like to add a case study, please send a pull request!
