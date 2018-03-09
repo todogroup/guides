@@ -1,12 +1,12 @@
 # Using Open Source Code
 
-One of the most important responsibilities of an open source program office is ensuring that your organization meets its legal obligations when integrating open source code with proprietary and third-party source code in your commercial products.
+One of the most important responsibilities of an open source program office is to ensure that, when integrating open source code with proprietary and third-party source code, your organization fulfills all applicable legal requirements.
 
-You need to establish guidelines on how developers can use open source code, and detailed processes to track where open source code is coming from, how it's licensed, and where it ultimately ends up. This guide gets you started with a baseline compliance program for using, releasing, and distributing open source code.
+To do this effectively, you must establish guidelines showing your developers how they can use open source code. You must also create detailed processes for tracking the origins of all third-party open source code that your organization uses; the licenses applied to that code, and where the code ultimately appears in your projects. This guide will help you to create a baseline compliance program for using, releasing, and distributing open source code.
 
 **Contents**
 
-1. [Why track and review code](#1)
+1. [Why track and review code?](#1)
 2. [Compliance roles and responsibilities](#2)
 3. [A simple policy for using open source code](#3)
 4. [Five-stage code review process](#4)
@@ -17,32 +17,32 @@ You need to establish guidelines on how developers can use open source code, and
 
 ## Why track and review code?
 
-Simply stated, if your company isn't tracking how and where its developers use open source code, you're at risk of non compliance with applicable open source licenses -- this can be an expensive path to go through both in terms of legal fees and engineering time spent to correct the error. Ignoring your open source legal obligations also has repercussions for your company's reputation in the open source community.
+To put it simply, companies that don't track how and where their developers use open source code put themselves at risk. Being non-compliant with applicable open source licenses can lead to expensive litigation and engineering time spent on correcting errors. Ignoring legal obligations can also harm your company's reputation in the open source community.
 
-An open source program office helps centralize policies and decision-making around open source consumption, distribution, and release, tracks code provenance and use, and ensures the organization doesn't run afoul of its compliance obligations.
+An open source program office can centralize policies and decision-making around open source consumption, distribution, and release; track code provenance and use, and ensure fulfillment of your compliance obligations. We advise collaborating with your legal counsel to develop a thorough compliance program. 
 
-Ideally, your open source program includes a complete compliance program, developed with the help of your legal counsel. In this guide, we'll cover one important aspect of your compliance program: your policy and processes for using, releasing, and distributing open source code.
+Let's focus now on creating processes and a policy for using, releasing, and distributing open source code.
 
 > "A well-designed open source compliance process should simultaneously ensure compliance with the terms of open source licenses and also help companies protect their own intellectual property and that of third-party suppliers from unintended disclosure and/or other consequences." [Ibrahim Haddad](https://twitter.com/ibrahimatlinux) - Vice President of R&D and Head of the Open Source Group at Samsung Research America
 
-There are several benefits companies can experience from maintaining an open source compliance program:
+Maintaining an open source compliance program offers many benefits and enables you to:
 
-* **Gain a technical advantage.** Since compliant software portfolios are easier to service, test, upgrade, and maintain.
-* **Identify crucial pieces of open source code.** You'll discover what code is in use across multiple products and parts of your organization, and/or are highly strategic and beneficial to your open source strategy.
-* **Demonstrate the costs and risks associated with using open source components.** This is easier to see when code goes through multiple rounds of review.
-* **Build community trust.** In the event of a compliance challenge, such a program can demonstrate an ongoing pattern of acting in good faith.
-* **Prepare for a possible acquisition, sale, or new product or service release.** This is a less common ways benefit, but compliance assurance is a mandatory practice before the completion of such transactions.
+* **Gain a technical advantage.** Compliant software portfolios are easier to service, test, upgrade, and maintain.
+* **Identify crucial pieces of open source code.** You'll discover which code appears across multiple products and parts of your organization, making it highly strategic and beneficial to your open source strategy.
+* **Demonstrate the costs and risks associated with using open source components.** This is easier to spot when code undergoes multiple rounds of review.
+* **Build community trust.** If/when compliance challenges emerge, a program can demonstrate an ongoing pattern of acting in good faith.
+* **Prepare for a possible acquisition, sale, or new product or service release.** This benefit isn't common, but compliance assurance is mandatory before completing such transactions.
 * **Build credibility in the supply chain.** You can improve compliance across your software supply chain, dealing with OEMs and downstream vendors.
 
 ## Compliance roles and responsibilities
 
-Within your open source program you'll want to create a designated open source compliance team that's tasked with ensuring open source compliance.
+As part of your open source program, create a core team tasked with ensuring open source compliance. 
 
-The core team, often called the auditing team or the Open Source Review Board (OSRB), consists of representatives from engineering and product teams, one or more legal counsel, and the Compliance Officer (who is typically the open source program manager).
+Often named the auditing team or the Open Source Review Board (OSRB), this team focuses on compliance full-time. Members should include representatives from engineering and product; one or more legal counsel, and the Compliance Officer (typically the open source program manager). 
 
-Other individuals across multiple departments also contribute on an ongoing basis to your open source compliance efforts: documentation, supply chain, corporate development, IT, localization and the Open Source Executive Committee (OSEC) which oversees the overall open source strategy. But unlike the core team, members of the extended team are only working on compliance on a part-time basis, based on tasks they receive from the OSRB.
+The OSRB is responsible for creating a strategy that ensures open source compliance in daily work; a governing set of principles for how how employees interact with open source software; and related enforcement processes. The strategy should also include formal processes for approving, acquiring, and using open source; and for releasing software that either contains open source or applies an open source license.
 
-The OSRB is in charge of creating an open source compliance strategy and a set of processes that determine how a company will implement these rules on a daily basis. The strategy establishes what must be done to ensure compliance and offers a governing set of principles for how employees interact with open source software. It includes a formal process for the approval, acquisition, and use of open source, and a method for releasing software that contains open source or that's licensed under an open source license.
+Representatives from other departments can also contribute to your compliance efforts: documentation/technical writing, supply chain, corporate development, IT, localization, and the Open Source Executive Committee (OSEC) or similar body. The OSEC oversees the overall open source strategy but works on compliance only part-time, based on tasks assigned/shared by the OSRB.
 
 ## A simple policy for using open source code
 
