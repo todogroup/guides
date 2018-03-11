@@ -6,14 +6,14 @@ You need to establish guidelines on how developers can use open source code, and
 
 **Contents**
 
-1. [Why track and review code](#1)
-2. [Compliance roles and responsibilities](#2)
-3. [A simple policy for using open source code](#3)
-4. [Five-stage code review process](#4)
-5. [What to do after v1.0](#5)
-6. [Sample open source usage request form](#6)
-7. [Final words](#7)
-8. [Architecture diagram template](#8)
+1. [Why track and review code](#why-track-and-review-code)
+2. [Compliance roles and responsibilities](#compliance-roles-and-responsibilities)
+3. [A simple policy for using open source code](#a-simple-policy-for-using-open-source-code)
+4. [Five-stage code review process](#5-stage-code-review-process)
+5. [What to do after v1.0](#what-to-do-after-v10)
+6. [Sample open source usage request form](#open-source-usage-request-form)
+7. [Final words](#final-words)
+8. [Architecture diagram template](#architecture-diagram-template)
 
 ## Why track and review code?
 
@@ -67,7 +67,7 @@ Once you have a policy in place, you must plan and create a process that makes i
 
 The process begins by scanning the source code of the software package in question, then moves on to identifying and resolving any discovered issues, performing legal and architectural reviews, and making a decision regarding the usage approval.
 
-The diagram, below, illustrates a simplistic view of a compliance usage process. In reality, the process is much more iterative in nature. Keep in mind that these phases are for illustration purposes and may need to be modified depending on your company's own needs and open source program configuration.
+The diagram described below illustrates a simplistic view of a compliance usage process. In reality, the process is much more iterative in nature. Keep in mind that these phases are for illustration purposes and may need to be modified depending on your company's own needs and open source program configuration.
 
 Let's walk through each stage in the process.
 
@@ -75,7 +75,7 @@ Let's walk through each stage in the process.
 
 In the source code scanning phase, all the source code is scanned using a specialized software tools (there are many commercial vendors that offer such tools in addition to a couple open source alternatives).
 
-This phase typically kicks off when an engineer submits an online usage form. (See the sample usage form and rules for using it, below.) The form includes all the information about the open source component in question, and specifies the location of the source code in the source code repository system.
+This phase typically kicks off when an engineer submits an online usage form. (See the link to the sample usage form and rules for using it, below.) The form includes all the information about the open source component in question, and specifies the location of the source code in the source code repository system.
 
 The form submission automatically creates a compliance ticket in a system such as JIRA or Bugzilla and a source code scanning request will be sent to the designated auditing staff.
 
@@ -217,7 +217,7 @@ With this information in hand, achieving incremental compliance becomes a relati
 * Compute a line-by-line diff of the source code in changed software components, and decide if you want to scan the source code again or rely on the previous scan.
 * Update the software registry by removing the software components that are not used anymore.
 
-The diagram, below, provides an overview of the incremental compliance process. The BOM file for each product release is stored on the build server. The BOM diff tool takes two BOM files as input, each corresponding to a different product release, and computes the delta to produce a list of changes as previously discussed.
+The diagram described below provides an overview of the incremental compliance process. The BOM file for each product release is stored on the build server. The BOM diff tool takes two BOM files as input, each corresponding to a different product release, and computes the delta to produce a list of changes as previously discussed.
 
 At this point, the compliance officer will create new compliance tickets for all new software components in the release, update compliance tickets where source code has changed and possibly re-pass them through the process, and finally update the software registry to remove retired software components from the approved list.
 
@@ -227,7 +227,7 @@ Completing the open source usage request form is an important step when develope
 
 Developers fill out the online form requesting approval to use a given open source component. The form comprises several questions that will provide necessary information for the auditing team or open source review board, allowing it to approve or disapprove the usage of the proposed open source component.
 
-The table, below, highlights the information requested in an open source usage request form. Usually, these values are chosen from a pull-down menu to make the data entry efficient.
+The table in the sample form available [here](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf) highlights the information requested in an open source usage request form. Usually, these values are chosen from a pull-down menu to make the data entry efficient.
 
 There are several rules governing the OSRB usage form, for instance:
 
@@ -245,7 +245,7 @@ At its core, open source compliance consists of a set of actions that control th
 
 ## Architecture diagram template
 
-An architectural diagram, used in the architecture review phase of the open source review process, illustrates the interactions between the various software components in an example platform. Here is an example architectural diagram that shows:
+An architectural diagram, used in the architecture review phase of the open source review process, illustrates the interactions between the various software components in an example platform. An example template architectural diagram, available [here](https://www.linuxfoundation.org/wp-content/uploads/2017/09/OpenSourceGuideGraphics_V2_G6.png), shows the following:
 
 * Module dependencies
 * Proprietary components
