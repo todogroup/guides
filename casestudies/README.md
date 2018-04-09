@@ -5,6 +5,7 @@ We have seen a recent trend in open source program formation. We have seen compa
 We've had many organizations approach TODO Group members asking for advice on how to get started with an open source program and we have decided to build out case studies from our membership to share best practices:
 
 * [Autodesk](autodesk.md)
+* [Capital One](capitalone.md)
 * [Comcast](comcast.md)
 * [Dropbox](dropbox.md)
 * [Facebook](facebook.md)
