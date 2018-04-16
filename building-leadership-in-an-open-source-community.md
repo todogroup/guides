@@ -20,7 +20,7 @@ It is common for companies to first assume that leadership in an open source com
 
 > "They soon come to realize that tactic won’t work. They come to understand that the only way to gain leadership is to earn the role within the community. And the only way to do that is to gain credibility and make contributions."
 
-![image alt text](building-leadership-in-an-open-source-community1.png)
+![image alt text](images/building-leadership-in-an-open-source-community1.png)
 
 ## Corporate vs open source leadership
 
@@ -40,7 +40,7 @@ The open source leadership mindset involves thinking about:
 
 Successfully making the shift from a proprietary to an open source mindset and culture requires time and effort and sometimes a regular reminder of the benefits in doing so. [Ibrahim Haddad](https://www.linkedin.com/in/ibrahimhaddad/), vice president of R&D and Head of Open Source at Samsung Electronics, built this chart for ease of reference. 
 
-![image alt text](building-leadership-in-an-open-source-community2.png)
+![image alt text](images/building-leadership-in-an-open-source-community2.png)
 
 ## Governance overview
 
@@ -56,7 +56,7 @@ It’s best for each company to work out the particulars in its own open source 
 
 A consistent governance plan prevents a huge version skew, as well as open source license and security issues. "A consistent governance model for open source consumption helps ensure compliance so that when we ship something, we know we've got the right license compliance in place."
 
-![image alt text](building-leadership-in-an-open-source-community3.jpg)
+![image alt text](images/building-leadership-in-an-open-source-community3.jpg)
 
 ## Culture overview
 
@@ -94,7 +94,7 @@ By balancing the workload, you also reduce the risk to the company in losing pro
 
 Further, a company can adopt open source practices and principles internally through innersourcing, in order to complete the culture shift to open source, improve their innovation rate and successes, and further connect with the open source community which helps build leadership and attract developers. 
 
- ![image alt text](building-leadership-in-an-open-source-community4.png)
+ ![image alt text](images/building-leadership-in-an-open-source-community4.png)
 
 In short, culture is imperative in all its many nuances and on many levels, if the goal is to build and maintain leadership and thus some measure of control over critical projects.
 
@@ -172,7 +172,7 @@ If you do start a project, do so for reasons other than establishing leadership 
 
 "Starting a project takes a lot of work. Don't start it if your code would be better off served contributing to another project where you could become a leader in that project by the basis of your code contributions," advises Martin.
 
-![image alt text](building-leadership-in-an-open-source-community5.jpg)
+![image alt text](images/building-leadership-in-an-open-source-community5.jpg)
 
 ### Technical contributions
 
@@ -182,7 +182,7 @@ The number one rule is to make sure that your contributions are useful to others
 
 Ibrahim Haddad also counsels contributors to follow the proper coding style, work within the project’s submission processes, provide documentation and explanations, listen to feedback, and wait patiently for acceptance. 
 
-![image alt text](building-leadership-in-an-open-source-communit6.jpg)
+![image alt text](images/building-leadership-in-an-open-source-communit6.jpg)
 
 ### Hiring talent
 
