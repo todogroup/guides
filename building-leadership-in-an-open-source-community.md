@@ -182,7 +182,7 @@ The number one rule is to make sure that your contributions are useful to others
 
 Ibrahim Haddad also counsels contributors to follow the proper coding style, work within the project’s submission processes, provide documentation and explanations, listen to feedback, and wait patiently for acceptance. 
 
-![image alt text](images/building-leadership-in-an-open-source-communit6.jpg)
+![image alt text](images/building-leadership-in-an-open-source-community6.jpg)
 
 ### Hiring talent
 
