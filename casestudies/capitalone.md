@@ -2,7 +2,7 @@
 
 ## Lessons Learned on Our Open Source Journey at Capital One
 
-![image alt text](images/capitalone1.jpg)
+![](images/capitalone1.jpg)
 
 Most people know Capital One as one of the largest credit card companies in the U.S. Some also know that we’re one of the nation’s largest banks — number 8 in the U.S. by assets. But Capital One is also a technology-focused digital bank that is proud to be [disrupting the financial services industry](https://medium.com/capital-one-developers/we-re-a-disruptive-bank-a21f7cce25b6#.7swhf6tt4)through our commitment to cutting edge technologies and innovative digital products. Like all U.S. banks, Capital One operates in a highly regulated environment that prioritizes the protection of our consumers and their financial data. This sets us apart from many companies who don’t operate under the same level of oversight and responsibility.
 
@@ -22,7 +22,7 @@ Our journey to managing open source risk and implementing this strategic approac
 
 ### Organizing Into an Office
 
-With strong leadership support, in 2015 we formalized oversight and governance through the creation of Capital One’s Open Source Office (OSO). With strong partnerships in Legal and Security, resources accountable for advising and overseeing open source activities were established within the OSO. 
+With strong leadership support, in 2015 we formalized oversight and governance through the creation of Capital One’s Open Source Office (OSO). With strong partnerships in Legal and Security, resources accountable for advising and overseeing open source activities were established within the OSO.
 
 Through these partnerships, the OSO team manages the company’s open source contributions, including these three crucial pillars:
 
@@ -48,7 +48,7 @@ The policy also formalizes accountabilities for the three main open source stake
 2. Establishes a new strategic partnership between from diverse groups called the Open Source Steering Committee.
 3. Defines the tactical partnership between OSO, Legal, and Security within an Open Source Review Board.
 
-![image alt text](images/capitalone2.jpg)
+![](images/capitalone2.jpg)
 
 As we developed this policy and formalized accountabilities, we established the tactical partnership between OSO, Legal, and Security as the OSRB. This tactical team works to guide open source activities with the development community. We also established a strategic leadership committee named the OSS Steering Committee, a group comprised of a dozen leaders who provide strategic direction for the development community.
 
@@ -63,7 +63,7 @@ As we look ahead in our open source journey, we plan to focus on:
 
 Specifically, in 2018 we’re focusing on education, strengthening awareness in the development community, and establishing our role as an advisor.
 
-![image alt text](images/capitalone3.jpg)
+![](images/capitalone3.jpg)
 
 Collaboration among the multiple stakeholders has been key to navigating our open source journey. Capital One is a technology driven company and we are unified across our organization on taking our open source activities to the next level in 2018.
 
