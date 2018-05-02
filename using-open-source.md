@@ -2,7 +2,7 @@
 
 One of the most important responsibilities of an open source program office is ensuring that your organization meets its legal obligations when integrating open source code with proprietary and third-party source code in your commercial products.
 
-You need to establish guidelines on how developers can use open source code, and detailed processes to track where open source code is coming from, how it's licensed, and where it ultimately ends up. This guide gets you started with a baseline compliance program for using, releasing, and distributing open source code.
+You need to establish guidelines on how developers can use open source code, and detailed processes to track where open source code is coming from, how it’s licensed, and where it ultimately ends up. This guide gets you started with a baseline compliance program for using, releasing, and distributing open source code.
 
 **Contents**
 
@@ -17,18 +17,18 @@ You need to establish guidelines on how developers can use open source code, and
 
 ## Why track and review code?
 
-Simply stated, if your company isn't tracking how and where its developers use open source code, you're at risk of non compliance with applicable open source licenses -- this can be an expensive path to go through both in terms of legal fees and engineering time spent to correct the error. Ignoring your open source legal obligations also has repercussions for your company's reputation in the open source community.
+Simply stated, if your company isn’t tracking how and where its developers use open source code, you're at risk of non compliance with applicable open source licenses – this can be an expensive path to go through both in terms of legal fees and engineering time spent to correct the error. Ignoring your open source legal obligations also has repercussions for your company’s reputation in the open source community.
 
-An open source program office helps centralize policies and decision-making around open source consumption, distribution, and release, tracks code provenance and use, and ensures the organization doesn't run afoul of its compliance obligations.
+An open source program office helps centralize policies and decision-making around open source consumption, distribution, and release, tracks code provenance and use, and ensures the organization doesn’t run afoul of its compliance obligations.
 
-Ideally, your open source program includes a complete compliance program, developed with the help of your legal counsel. In this guide, we'll cover one important aspect of your compliance program: your policy and processes for using, releasing, and distributing open source code.
+Ideally, your open source program includes a complete compliance program, developed with the help of your legal counsel. In this guide, we’ll cover one important aspect of your compliance program: your policy and processes for using, releasing, and distributing open source code.
 
-> "A well-designed open source compliance process should simultaneously ensure compliance with the terms of open source licenses and also help companies protect their own intellectual property and that of third-party suppliers from unintended disclosure and/or other consequences." [Ibrahim Haddad](https://twitter.com/ibrahimatlinux) - Vice President of R&D and Head of the Open Source Group at Samsung Research America
+> “A well-designed open source compliance process should simultaneously ensure compliance with the terms of open source licenses and also help companies protect their own intellectual property and that of third-party suppliers from unintended disclosure and/or other consequences.” – [Ibrahim Haddad](https://twitter.com/ibrahimatlinux), Vice President of R&D and Head of the Open Source Group at Samsung Research America
 
 There are several benefits companies can experience from maintaining an open source compliance program:
 
 * **Gain a technical advantage.** Since compliant software portfolios are easier to service, test, upgrade, and maintain.
-* **Identify crucial pieces of open source code.** You'll discover what code is in use across multiple products and parts of your organization, and/or are highly strategic and beneficial to your open source strategy.
+* **Identify crucial pieces of open source code.** You’ll discover what code is in use across multiple products and parts of your organization, and/or are highly strategic and beneficial to your open source strategy.
 * **Demonstrate the costs and risks associated with using open source components.** This is easier to see when code goes through multiple rounds of review.
 * **Build community trust.** In the event of a compliance challenge, such a program can demonstrate an ongoing pattern of acting in good faith.
 * **Prepare for a possible acquisition, sale, or new product or service release.** This is a less common ways benefit, but compliance assurance is a mandatory practice before the completion of such transactions.
@@ -36,13 +36,13 @@ There are several benefits companies can experience from maintaining an open sou
 
 ## Compliance roles and responsibilities
 
-Within your open source program you'll want to create a designated open source compliance team that's tasked with ensuring open source compliance.
+Within your open source program you’ll want to create a designated open source compliance team that’s tasked with ensuring open source compliance.
 
 The core team, often called the auditing team or the Open Source Review Board (OSRB), consists of representatives from engineering and product teams, one or more legal counsel, and the Compliance Officer (who is typically the open source program manager).
 
 Other individuals across multiple departments also contribute on an ongoing basis to your open source compliance efforts: documentation, supply chain, corporate development, IT, localization and the Open Source Executive Committee (OSEC) which oversees the overall open source strategy. But unlike the core team, members of the extended team are only working on compliance on a part-time basis, based on tasks they receive from the OSRB.
 
-The OSRB is in charge of creating an open source compliance strategy and a set of processes that determine how a company will implement these rules on a daily basis. The strategy establishes what must be done to ensure compliance and offers a governing set of principles for how employees interact with open source software. It includes a formal process for the approval, acquisition, and use of open source, and a method for releasing software that contains open source or that's licensed under an open source license.
+The OSRB is in charge of creating an open source compliance strategy and a set of processes that determine how a company will implement these rules on a daily basis. The strategy establishes what must be done to ensure compliance and offers a governing set of principles for how employees interact with open source software. It includes a formal process for the approval, acquisition, and use of open source, and a method for releasing software that contains open source or that’s licensed under an open source license.
 
 ## A simple policy for using open source code
 
@@ -63,13 +63,13 @@ There is no need to make a lengthy or complicated document. A good open source u
 
 Once you have a policy in place, you must plan and create a process that makes it easy to apply the policy. Your job is to grease the wheels for developer use of open source and contribution to open source projects.
 
-> "If your code review process is overly burdensome, you'll slow innovation or provide a good excuse for developers to circumvent the process completely." [Ibrahim Haddad](https://twitter.com/ibrahimatlinux) - Vice President of R&D and Head of the Open Source Group at Samsung Research America
+> “If your code review process is overly burdensome, you’ll slow innovation or provide a good excuse for developers to circumvent the process completely.” – [Ibrahim Haddad](https://twitter.com/ibrahimatlinux), Vice President of R&D and Head of the Open Source Group at Samsung Research America
 
 The process begins by scanning the source code of the software package in question, then moves on to identifying and resolving any discovered issues, performing legal and architectural reviews, and making a decision regarding the usage approval.
 
-The diagram described below illustrates a simplistic view of a compliance usage process. In reality, the process is much more iterative in nature. Keep in mind that these phases are for illustration purposes and may need to be modified depending on your company's own needs and open source program configuration.
+The diagram described below illustrates a simplistic view of a compliance usage process. In reality, the process is much more iterative in nature. Keep in mind that these phases are for illustration purposes and may need to be modified depending on your company’s own needs and open source program configuration.
 
-Let's walk through each stage in the process.
+Let’s walk through each stage in the process.
 
 ### Stage 1: Source Code Scan
 
@@ -112,7 +112,7 @@ If a third-party software provider uses open source, the product team integratin
 
 In the identification and resolution phase, the auditing team inspects and resolves each file or snippet flagged by the scanning tool.
 
-For example, the scanning tool's report can flag issues such as conflicting and incompatible licenses. If there are no issues, then the compliance office will move the compliance ticket forward to the legal review phase.
+For example, the scanning tool’s report can flag issues such as conflicting and incompatible licenses. If there are no issues, then the compliance office will move the compliance ticket forward to the legal review phase.
 
 If there are issues to be resolved, then the compliance officer creates subtasks within the compliance tickets and assigns them to the appropriate engineers to be resolved. In some cases, a code rework is needed; in other cases it may simply be a matter of clarification. The sub-tasks should include a description of the issue, a proposed solution to be implemented by engineering, and a specific timeline for completion.
 
@@ -156,7 +156,7 @@ In some cases, if the licensing information is not clear or if it is not availab
 
 In the architecture review, the compliance officer and an engineering representative on the auditing team or open source review board perform an analysis of the interaction between the open source, proprietary, and third-party code. This is accomplished by examining an architectural diagram (see an example, below) that identifies:
 
-* Open source components (used "as is" or modified)
+* Open source components (used “as is” or modified)
 * Proprietary components
 * Components originating from third-party software providers
 * Component dependencies
@@ -187,13 +187,13 @@ In most cases, if a software component reaches the final review, it will be appr
 
 The compliance officer tracks all open tickets and ensures their completion by the time the product ships or service launches.
 
-For a more detailed usage process and possible scenarios, see our ebook [Open Source Compliance in the Enterprise](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+For a more detailed usage process and possible scenarios, see our ebook [Open Source Compliance in the Enterprise](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/).
 
 ## What to do after v1.0
 
 Initial compliance, also called baseline compliance, happens when development starts, and continues until the release of the first version of the product. The compliance team identifies all open source code included in the software baseline, and drives all of the source components through the five-stage approval process outlined above.
 
-> "It's important to remember that open source compliance doesn't stop with version 1.0." [Ibrahim Haddad](https://twitter.com/ibrahimatlinux) - Vice President of R&D and Head of the Open Source Group at Samsung Research America
+> “It’s important to remember that open source compliance doesn’t stop with version 1.0.” – [Ibrahim Haddad](https://twitter.com/ibrahimatlinux), Vice President of R&D and Head of the Open Source Group at Samsung Research America
 
 You will also need to develop an incremental compliance process to check in on the source code once the product ships. This process starts when development begins on a new branch that includes additional features and/or bug fixes.
 
@@ -260,9 +260,9 @@ An architectural diagram, used in the architecture review phase of the open sour
 
 Contributors:
 
-**![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_ibrahim.png) 
+**![](https://www.linuxfoundation.org/wp-content/uploads/2017/09/thumb_ibrahim.png)
 Ibrahim Haddad**
 VP of R&D and Head of the Open Source Group
 Samsung Research America
 
-> These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group - the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)
+*These resources were created in partnership with the TODO (Talk Openly, Develop Openly) Group – the professional open source program networking group at The Linux Foundation. A special thanks goes out to the open source program managers who contributed their time and knowledge to making these comprehensive guides. Participating companies include Autodesk, Comcast, Dropbox, Facebook, Google, Intel, Microsoft, Netflix, Oath (Yahoo + AOL), Red Hat, Salesforce, Samsung and VMware. To learn more, visit: [todogroup.org](http://todogroup.org/)*
