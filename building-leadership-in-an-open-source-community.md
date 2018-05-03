@@ -16,7 +16,7 @@ While open source projects have repeatedly proved the value of collaborations th
 
 It is common for companies to first assume that leadership in an open source community works the same way as leadership does in a corporation. It doesn’t.
 
-“Companies often go through a phase of thinking ‘Oh, well, we’re huge. Why can’t we pound our fist on the table and just make the community do what we want?’” explains Guy Martin, Director of the Open@ADSK initiative at Autodesk. “They soon come to realize that tactic won’t work. They come to understand that the only way to gain leadership is to earn the role within the community. And the only way to do that is to gain credibility and make contributions.”
+“Companies often go through a phase of thinking ‘Oh, well, we’re huge. Why can’t we pound our fist on the table and just make the community do what we want?’” explains [Guy Martin](https://www.linkedin.com/in/guywmartin/), Director of the Open@ADSK initiative at Autodesk. “They soon come to realize that tactic won’t work. They come to understand that the only way to gain leadership is to earn the role within the community. And the only way to do that is to gain credibility and make contributions.”
 
 ![Source: Ibrahim Haddad, http://www.ibrahimatlinux.com/charts.html](images/building-leadership-in-an-open-source-community1.png)
 
