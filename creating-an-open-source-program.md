@@ -15,7 +15,7 @@ This guide aims to help you figure out why and how to establish a program to man
 - [Setting policy and processes](#setting-policy-and-processes)
 - [Final words](#final-words)
 - [Example open source program job listing](#example-open-source-program-job-listing)
-- [Acknolwedgements](#acknolwedgements)
+- [acknowledgements](#acknowledgements)
 
 ## Why create an open source program office
 
@@ -244,7 +244,7 @@ If you’re interested in building out and open source program office and want t
 
 https://github.com/todogroup/job-descriptions
 
-## Acknolwedgements
+## Acknowledgements
 
 Contributors to this guide:
 
