@@ -1,3 +1,7 @@
+---
+# THIS REPO IS ARCHIVED. CONTENT IS BEING MAINTAINED [HERE](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/)
+---
+
 # TODO Guides
 
 These Open Source Guides are developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. They collect best practices from the leading companies engaged in open source development, and aim to help your organization successfully implement and run an open source program office. We expect these guides to be living documents that evolve via community contributions.
